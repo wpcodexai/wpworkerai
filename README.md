@@ -1,6 +1,6 @@
 # WPWorker
 
-![WPWorker — Give AI agents full control of WordPress](https://wpworker.ai/assets/github-banner.png)
+![WPWorker — Give AI agents full control of WordPress](https://raw.githubusercontent.com/wpcodexai/wpworkerai/refs/heads/main/wpworker_github_banner.svg)
 
 [WPWorker](https://wpworker.ai) is where AI meets WordPress. We build the bridge between modern AI agents and the world's most popular CMS — turning any WordPress site into a fully programmable environment that an AI can operate like a developer would.
 
