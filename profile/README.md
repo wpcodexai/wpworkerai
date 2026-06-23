@@ -1,6 +1,6 @@
 # AllyWorker
 
-![AllyWorker — Give AI agents full control of WordPress](https://raw.githubusercontent.com/allyworker/allyworker/refs/heads/main/wpworker_github_banner.svg)
+![AllyWorker — Give AI agents full control of WordPress](https://raw.githubusercontent.com/allyworker/.github/main/profile/wpworker_github_banner.svg)
 
 [AllyWorker](https://allyworker.com) is where AI meets WordPress. We build the bridge between modern AI agents and the world's most popular CMS — turning any WordPress site into a fully programmable environment that an AI can operate like a developer would.
 
